@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @csilla85
+- 👋 Hi, I’m Chi-chi!
 - 👀 I’m interested in front end development and graphic design (among many other things...)
 - 🌱 I’m currently learning ux design and javascript, and further expanding my knowledge in html and css
 - 💞️ I’m looking to collaborate on any front end / web design project that will help my professional growth. i'm also looking to get into full-time junior positions that require html, css and/or design
